@@ -1,9 +1,9 @@
 # RentVsBuy
 A simplistic mortgage vs rent and saving comparision tool
 
-![RentVsBuy on GitHub](docs/screenshot-01.png)
-![RentVsBuy on GitHub](docs/screenshot-02.png)
-![RentVsBuy on GitHub](docs/screenshot-03.png)
+![RentVsBuy on GitHub](docs/img/screenshot-01.png)
+![RentVsBuy on GitHub](docs/img/screenshot-02.png)
+![RentVsBuy on GitHub](docs/img/screenshot-03.png)
 
 ## Purpose - Compare Buying to Renting
 When reviewing the options of buying or renting, there are multiple factors which will impact what is best.
